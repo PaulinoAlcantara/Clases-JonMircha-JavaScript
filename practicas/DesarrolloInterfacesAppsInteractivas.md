@@ -42,7 +42,12 @@ Deberás crear al menos:
 
 Se evaluará la nomenclatura que le des a tus componentes y estilos.
 
-En tu _frame_ deberás hacer uso de la herramienta _Layout Grid_ para no diseñar a ciegas, define tantas cuadrículas, filas o columnas como necesites.
+Deberás tener 2 _frames_ en tu documento:
+
+1. Uno donde tengas tu librería de componentes y estilos.
+1. Otro donde diseñes la interfaz que estás recreando.
+
+En tus _frames_ deberás hacer uso de la herramienta _Layout Grid_ para no diseñar a ciegas, define tantas cuadrículas, filas o columnas como necesites.
 
 Usa la herramienta _Auto Layout_ para alinear tus elementos en vertical u horizontal.
 
@@ -70,7 +75,12 @@ Deberás crear al menos:
 
 Se evaluará la nomenclatura que le des a tus componentes y estilos.
 
-En tu _frame_ deberás hacer uso de la herramienta _Layout Grid_ para no diseñar a ciegas, define tantas cuadrículas, filas o columnas como necesites.
+Deberás tener 2 _frames_ en tu documento:
+
+1. Uno donde tengas tu librería de componentes y estilos.
+1. Otro donde diseñes la interfaz que estás recreando.
+
+En tus _frames_ deberás hacer uso de la herramienta _Layout Grid_ para no diseñar a ciegas, define tantas cuadrículas, filas o columnas como necesites.
 
 Usa la herramienta _Auto Layout_ para alinear tus elementos en vertical u horizontal.
 
@@ -107,7 +117,7 @@ Se evaluará tu creatividad, estilo de diseño, comunicación del mensaje y lo m
 
 **_¡Que lo expliques con tus propias palabras!_**.
 
-Esta práctica ve la como una auto reflexión sobre los conceptos que has aprendido en la materia sobre la herramienta de diseño interactivo _Figma_.
+Esta práctica vela como una auto reflexión sobre los conceptos que has aprendido en la materia sobre la herramienta de diseño interactivo _Figma_.
 
 Esta práctica **vale por 3**.
 
