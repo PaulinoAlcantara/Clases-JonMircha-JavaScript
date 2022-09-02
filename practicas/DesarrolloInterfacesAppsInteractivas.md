@@ -12,6 +12,8 @@ Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcia
 
 El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 1"** por ejemplo "Jonathan Miranda - Práctica 1".
 
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
+
 ---
 
 ### Práctica 2
@@ -25,6 +27,8 @@ Se evaluará uso de las herramientas de diseño, estilo de diseño y comunicaci�
 Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcial 1**.
 
 El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 2"** por ejemplo "Jonathan Miranda - Práctica 2".
+
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 ---
 
@@ -59,6 +63,8 @@ Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcia
 
 El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 3"** por ejemplo "Jonathan Miranda - Práctica 3".
 
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
+
 ---
 
 ### Práctica 4
@@ -92,6 +98,8 @@ Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcia
 
 El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 4"** por ejemplo "Jonathan Miranda - Práctica 4".
 
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
+
 ---
 
 ### Práctica 5
@@ -124,6 +132,8 @@ Esta práctica **vale por 3**.
 Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcial 1**.
 
 El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 5"** por ejemplo "Jonathan Miranda - Práctica 5".
+
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 ---
 
