@@ -65,6 +65,41 @@ En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
 
 ---
 
+### Práctica 6
+
+Con lo aprendido sobre condicionales, usa un _switch_ para mandar a imprimir en la consola del navegador el nombre del mes en el que estamos y una festividad alusiva al mes.
+
+En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
+
+---
+
+### Práctica 7
+
+Con lo aprendido sobre condicionales, operadores, el objeto _Date_ y los temporizadores, crea una función que imprima en la consola del navegador un reloj digital que muestre horas, minutos, segundos y este en formato am/pm.
+
+En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
+
+---
+
+### Práctica 8
+
+Con lo aprendido sobre ciclos, crea una función para obtener el factorial de un número.
+
+Considera lo siguiente, para obtener el factorial:
+
+- El número en cuestión tiene que ser positivo, entero y mayor a cero.
+- El factorial se define como el producto de todos los números naturales anteriores o iguales a él, por ejemplo:
+
+```
+!5 = 5 x 4 x 3 x 2 x 1 = 120
+!4 = 4 x 3 x 2 x 1 = 24
+!3 = 3 x 2 x 1 = 6
+```
+
+En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
+
+---
+
 ## Parcial 2
 
 ---
