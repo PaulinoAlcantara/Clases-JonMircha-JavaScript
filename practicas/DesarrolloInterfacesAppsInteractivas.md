@@ -4,7 +4,7 @@
 
 ### Práctica 1
 
-Con lo visto en clase elaborá un documento de diseño en _Figma_ de una publicidad para tu video juego favorito, el medio de distribución sera una publicación de _Instagram_.
+Con lo visto en clase elabora un documento de diseño en _Figma_ de una publicidad para tu video juego favorito, el medio de distribución será una publicación de _Instagram_.
 
 Se evaluará uso de las herramientas de diseño, estilo de diseño y comunicación del mensaje.
 
@@ -18,7 +18,7 @@ En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 ### Práctica 2
 
-Con lo visto en clase elaborá un documento de diseño en _Figma_, el medio de distribución sera una galería de 3 publicaciones para _Instagram_.
+Con lo visto en clase elabora un documento de diseño en _Figma_, el medio de distribución será una galería de 3 publicaciones para _Instagram_.
 
 Diseña un tutorial del uso de alguna de las herramientas u opciones de _Figma_ vistas en clase.
 
@@ -34,7 +34,7 @@ En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 ### Práctica 3
 
-Con lo visto en clase elaborá un documento de diseño en _Figma_ y haz lo siguiente:
+Con lo visto en clase elabora un documento de diseño en _Figma_ y haz lo siguiente:
 
 Recrea la interfaz de algún sitio _web_ donde puedas aplicar los conceptos de _Layout Grid_, _Auto Layout_, componentes y estilos vistos en clase.
 
@@ -104,7 +104,7 @@ En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 ### Práctica 5
 
-Con lo visto en clase elaborá un documento de _FigJam_ en _Figma_ y crea un mapa mental donde puedas plasmar de forma gráfica todo lo que has aprendido en este parcial sobre _Figma_.
+Con lo visto en clase elabora un documento de _FigJam_ en _Figma_ y crea un mapa mental donde puedas plasmar de forma gráfica todo lo que has aprendido en este parcial sobre _Figma_.
 
 Conceptos que puedes agregar y explicar en tu mapa mental:
 

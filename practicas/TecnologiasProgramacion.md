@@ -77,6 +77,10 @@ En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
 
 Con lo aprendido sobre condicionales, operadores, el objeto _Date_ y los temporizadores, crea una función que imprima en la consola del navegador un reloj digital que muestre horas, minutos, segundos y este en formato am/pm.
 
+Antes de escribir el código fuente del ejercicio deja un comentario y en este, escribe el algoritmo para resolver este ejercicio.
+
+Esta práctica **vale por 2**.
+
 En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
 
 ---
@@ -95,6 +99,10 @@ Considera lo siguiente, para obtener el factorial:
 !4 = 4 x 3 x 2 x 1 = 24
 !3 = 3 x 2 x 1 = 6
 ```
+
+Antes de escribir el código fuente del ejercicio deja un comentario y en este, escribe el algoritmo para resolver este ejercicio.
+
+Esta práctica **vale por 2**.
 
 En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
 

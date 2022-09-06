@@ -87,14 +87,11 @@ Para reforzar lo aprendido sobre el flujo de _Git_ y _GitHub_, haz lo siguiente:
 
 1. Crea una nueva carpeta en tu computadora e inicializa _Git_ en ella.
 1. Asegurate de que la rama principal de tu repositorio se llame _**main**_.
+1. Crea un repositorio nuevo en tu cuenta de _GitHub_.
 1. Vincula la _url_ del repositorio remoto que te da _GitHub_ en tu carpeta local.
 1. Crea una archivo _**README.md**_ y agregale tu nombre como contenido.
 1. Agrega el cambio al _stage_ de tu repositorio.
 1. Crea un _commit_ que tenga el mensaje "_Primer commit_".
-1. Sube el cambio del repositorio local al remoto.
-1. Vuelve a agregar contenido al archivo _**README.md**_, en esta ocasión agrega tu edad.
-1. Agrega el cambio al _stage_ de tu repositorio.
-1. Crea un _commit_ que tenga el mensaje "_Agregando mi edad_".
 1. Sube el cambio del repositorio local al remoto.
 1. Vuelve a agregar contenido al archivo _**README.md**_, en esta ocasión agrega tu edad.
 1. Agrega el cambio al _stage_ de tu repositorio.
