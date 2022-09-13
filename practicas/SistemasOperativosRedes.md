@@ -177,6 +177,33 @@ En la tarea sólo agrega el enlace de tu repositorio en _GitHub_.
 
 ## Parcial 2
 
+### Práctica 1
+
+Para reforzar lo aprendido sobre las ramas y fusiones en _Git_ y _GitHub_, haz lo siguiente:
+
+1. Crea una nueva carpeta en tu computadora e inicializa _Git_ en ella.
+1. Asegurate de que la rama principal de tu repositorio se llame _**main**_.
+1. Crea un repositorio nuevo en tu cuenta de _GitHub_.
+1. Vincula la _url_ del repositorio remoto que te da _GitHub_ en tu carpeta local.
+1. Crea una archivo _**README.md**_ y agregale tu nombre como contenido.
+1. Agrega el cambio al _stage_ de tu repositorio.
+1. Crea un _commit_ que tenga el mensaje "_Primer commit_".
+1. Sube el cambio del repositorio local al remoto.
+1. A partir de aquí agregarás contenido en el _**README.md**_ de la siguiente manera:
+
+   - Por cada materia que tengas agregarás un título con el nombre de la misma, el nombre de tu docente y una breve descripción de lo que estás aprendiendo en dicha matería.
+   - La información de cada materia deberá ser creada en una rama diferente a _**main**_ y las ramas deberán llamarse como cada materia.
+   - Agrega un _**commit**_ por cada rama y súbelas al repositorio remoto.
+   - Cuando hayas terminado de crear el contenido de cada rama, haz una fusión de todo el contenido en la rama _**main**_.
+
+1. Cuando termines, abre la carpeta de la repositorio de **Entregas**.
+1. Edita el archivo _**README.md**_ y agrega un enlace que apunte al repositorio de esta práctica.
+1. Agrega el cambio al _stage_ de tu repositorio.
+1. Crea un _commit_ que tenga el mensaje "_Agregando enlace de la práctica 1 del parcial 2_".
+1. Sube el cambio del repositorio local al remoto.
+
+En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
+
 ---
 
 ## Parcial 3

@@ -77,6 +77,8 @@ En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
 
 Con lo aprendido sobre condicionales, operadores, el objeto _Date_ y los temporizadores, crea una función que imprima en la consola del navegador un reloj digital que muestre horas, minutos, segundos y este en formato am/pm.
 
+Agrega validaciones a tu código.
+
 Antes de escribir el código fuente del ejercicio deja un comentario y en este, escribe el algoritmo para resolver este ejercicio.
 
 Esta práctica **vale por 2**.
@@ -100,6 +102,8 @@ Considera lo siguiente, para obtener el factorial:
 !3 = 3 x 2 x 1 = 6
 ```
 
+Agrega validaciones a tu código.
+
 Antes de escribir el código fuente del ejercicio deja un comentario y en este, escribe el algoritmo para resolver este ejercicio.
 
 Esta práctica **vale por 2**.
@@ -109,6 +113,20 @@ En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
 ---
 
 ## Parcial 2
+
+### Práctica 1
+
+Con lo aprendido sobre los Módulos:
+
+Crea un nuevo proyecto en _Replit_ y convierte a módulos los siguientes ejercicios:
+
+1. Reloj Digital.
+1. Factorial.
+1. Polígonos Regulares:
+   - Por cada polígono crea un archivo _js_.
+   - Agrega validaciones a tus clases de los polígonos.
+
+En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
 
 ---
 

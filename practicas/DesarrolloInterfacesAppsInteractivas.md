@@ -139,6 +139,22 @@ En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 ## Parcial 2
 
+### Práctica 1
+
+Con lo visto en clase elabora un documento de _FigJam_ en _Figma_ y haz lo siguiente:
+
+Toma un par de capturas de pantalla de alguna interfaz de algún sitio o aplicación que suelas visitar o utilizar e identífica los 12 Principios de Diseño _UI_ revisados en clase.
+
+En el documento de _FigJam_ señala o resalta la parte de la interfaz donde identifiques el principio de diseño y adicionalmente agrega un párrafo donde me des tu argumento al respecto.
+
+Se evaluará uso de las herramientas de diseño, estilo de diseño y comunicación del mensaje.
+
+Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcial 2**.
+
+El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 1"** por ejemplo "Jonathan Miranda - Práctica 1".
+
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
+
 ---
 
 ## Parcial 3
