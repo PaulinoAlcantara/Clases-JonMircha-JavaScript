@@ -143,7 +143,7 @@ En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 Con lo visto en clase elabora un documento de _FigJam_ en _Figma_ y haz lo siguiente:
 
-Toma un par de capturas de pantalla de alguna interfaz de algún sitio o aplicación que suelas visitar o utilizar e identífica los 12 Principios de Diseño _UI_ revisados en clase.
+Toma un par de capturas de pantalla de alguna interfaz de un sitio o aplicación que suelas visitar o utilizar e identífica los 12 Principios de Diseño _UI_ revisados en clase.
 
 En el documento de _FigJam_ señala o resalta la parte de la interfaz donde identifiques el principio de diseño y adicionalmente agrega un párrafo donde me des tu argumento al respecto.
 
