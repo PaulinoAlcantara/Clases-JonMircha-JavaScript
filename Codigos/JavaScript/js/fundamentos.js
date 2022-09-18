@@ -418,9 +418,9 @@ class PoligonoRegular {
   }
 
   //Métodos
-  getPerimetro() {}
+  obtenerPerimetro() {}
 
-  getArea() {}
+  obtenerArea() {}
 }
 
 class Triangulo extends PoligonoRegular {
@@ -432,18 +432,20 @@ class Triangulo extends PoligonoRegular {
     this.altura = altura;
   }
 
-  getPerimetro() {
+  obtenerPerimetro() {
     return this.ladoA + this.ladoB + this.ladoC;
   }
 
-  getArea() {
+  obtenerArea() {
     return (this.ladoB * this.altura) / 2;
   }
 }
 
 let miTriangulo = new Triangulo(3, 5, 4, 3, 6);
-console.log(`El perímetro de mi triángulo es ${miTriangulo.getPerimetro()}`);
-console.log(`El área de mi triángulo es ${miTriangulo.getArea()}`);
+console.log(
+  `El perímetro de mi triángulo es ${miTriangulo.obtenerPerimetro()}`
+);
+console.log(`El área de mi triángulo es ${miTriangulo.obtenerArea()}`);
 
 class Cuadrado extends PoligonoRegular {
   constructor(lados, lado) {
@@ -451,19 +453,19 @@ class Cuadrado extends PoligonoRegular {
     this.lado = lado;
   }
 
-  getPerimetro() {
+  obtenerPerimetro() {
     return this.lados * this.lado;
   }
 
-  getArea() {
+  obtenerArea() {
     //return this.lado * this.lado;
     return Math.pow(this.lado, 2);
   }
 }
 
 let miCuadrado = new Cuadrado(4, 8);
-console.log(`El perímetro de mi cuadrado es ${miCuadrado.getPerimetro()}`);
-console.log(`El área de mi cuadrado es ${miCuadrado.getArea()}`);
+console.log(`El perímetro de mi cuadrado es ${miCuadrado.obtenerPerimetro()}`);
+console.log(`El área de mi cuadrado es ${miCuadrado.obtenerArea()}`);
 
 class Pentagono extends PoligonoRegular {
   constructor(lados, lado, apotema) {
@@ -472,18 +474,20 @@ class Pentagono extends PoligonoRegular {
     this.apotema = apotema;
   }
 
-  getPerimetro() {
+  obtenerPerimetro() {
     return this.lados * this.lado;
   }
 
-  getArea() {
-    return (this.getPerimetro() * this.apotema) / 2;
+  obtenerArea() {
+    return (this.obtenerPerimetro() * this.apotema) / 2;
   }
 }
 
 let miPentagono = new Pentagono(5, 6, 9);
-console.log(`El perímetro de mi pentágono es ${miPentagono.getPerimetro()}`);
-console.log(`El área de mi pentágono es ${miPentagono.getArea()}`);
+console.log(
+  `El perímetro de mi pentágono es ${miPentagono.obtenerPerimetro()}`
+);
+console.log(`El área de mi pentágono es ${miPentagono.obtenerArea()}`);
 console.log(miPentagono);
 
 /*

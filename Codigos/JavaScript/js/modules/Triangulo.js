@@ -31,11 +31,11 @@ export class Triangulo extends PoligonoRegular {
     this.altura = altura;
   }
 
-  getPerimetro() {
+  obtenerPerimetro() {
     return this.ladoA + this.ladoB + this.ladoC;
   }
 
-  getArea() {
+  obtenerArea() {
     return (this.ladoB * this.altura) / 2;
   }
 }

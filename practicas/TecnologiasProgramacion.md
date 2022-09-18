@@ -165,8 +165,6 @@ En la tarea sólo agrega el enlace de tu proyecto en _Replit_.
 
 Con lo aprendido sobre constantes, tipos de funciones, arreglos y validaciones, crea una función que dado un arreglo de números devuelva un objeto con tres arreglos, el primero tendrá los numeros en el orden que fueron pasados a la función, el segundo tendrá los números ordenados en forma ascendente y el último de forma descendiente, la salida de tu consola tendría que verse así:
 
-pe. miFuncion devolverá { asc: [5,6,7,7,8], desc: [8,7,7,6,5] }
-
 Al ejecutar tu función:
 
 ```js

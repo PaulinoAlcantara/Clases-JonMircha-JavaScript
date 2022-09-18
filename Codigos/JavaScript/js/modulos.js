@@ -12,8 +12,9 @@ import { factorial } from "./modules/factorial.js";
 import { numeroPrimo } from "./modules/numero-primo.js";
 import { separarParesImpares } from "./modules/separar-pares-impares.js";
 import { ordenarNumeros } from "./modules/ordenar-numeros.js";
-import { Cuadrado } from "./modules/Cuadrado.js";
+//import { PoligonoRegular } from "./modules/PoligonoRegular.js";
 import { Triangulo } from "./modules/Triangulo.js";
+import { Cuadrado } from "./modules/Cuadrado.js";
 import { Pentagono } from "./modules/Pentagono.js";
 
 console.log(suma(8, 9));
@@ -44,14 +45,21 @@ ordenarNumeros();
 ordenarNumeros([3, false]);
 ordenarNumeros([7, 5, 7, 8, 6]);
 
+//let miPoligono = new PoligonoRegular(3);
+//console.log(miPoligono);
+
 let miTriangulo = new Triangulo(3, 5, 4, 3, 6);
-console.log(`El perímetro de mi triángulo es ${miTriangulo.getPerimetro()}`);
-console.log(`El área de mi triángulo es ${miTriangulo.getArea()}`);
+console.log(
+  `El perímetro de mi triángulo es ${miTriangulo.obtenerPerimetro()}`
+);
+console.log(`El área de mi triángulo es ${miTriangulo.obtenerArea()}`);
 
 let miCuadrado = new Cuadrado(4, 8);
-console.log(`El perímetro de mi cuadrado es ${miCuadrado.getPerimetro()}`);
-console.log(`El área de mi cuadrado es ${miCuadrado.getArea()}`);
+console.log(`El perímetro de mi cuadrado es ${miCuadrado.obtenerPerimetro()}`);
+console.log(`El área de mi cuadrado es ${miCuadrado.obtenerArea()}`);
 
 let miPentagono = new Pentagono(5, 6, 9);
-console.log(`El perímetro de mi pentágono es ${miPentagono.getPerimetro()}`);
-console.log(`El área de mi pentágono es ${miPentagono.getArea()}`);
+console.log(
+  `El perímetro de mi pentágono es ${miPentagono.obtenerPerimetro()}`
+);
+console.log(`El área de mi pentágono es ${miPentagono.obtenerArea()}`);

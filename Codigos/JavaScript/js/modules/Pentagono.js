@@ -22,11 +22,11 @@ export class Pentagono extends PoligonoRegular {
     this.apotema = apotema;
   }
 
-  getPerimetro() {
+  obtenerPerimetro() {
     return this.lados * this.lado;
   }
 
-  getArea() {
-    return (this.getPerimetro() * this.apotema) / 2;
+  obtenerArea() {
+    return (this.obtenerPerimetro() * this.apotema) / 2;
   }
 }

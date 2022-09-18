@@ -19,11 +19,11 @@ export class Cuadrado extends PoligonoRegular {
     this.lado = lado;
   }
 
-  getPerimetro() {
+  obtenerPerimetro() {
     return this.lados * this.lado;
   }
 
-  getArea() {
+  obtenerArea() {
     //return this.lado * this.lado;
     return Math.pow(this.lado, 2);
   }

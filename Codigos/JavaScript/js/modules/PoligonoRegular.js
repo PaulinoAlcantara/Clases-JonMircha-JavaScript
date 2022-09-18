@@ -1,5 +1,9 @@
 export class PoligonoRegular {
   constructor(lados) {
+    if (this.constructor === PoligonoRegular) {
+      throw new Error("Una clase abstracta no puede instanciarse");
+    }
+
     if (typeof lados !== "number") {
       throw new Error(`El atributo lados debe ser un número`);
     }
@@ -15,7 +19,7 @@ export class PoligonoRegular {
     this.lados = lados;
   }
 
-  getPerimetro() {}
+  obtenerPerimetro() {}
 
-  getArea() {}
+  obtenerArea() {}
 }
