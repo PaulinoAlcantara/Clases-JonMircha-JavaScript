@@ -157,6 +157,50 @@ En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 ---
 
+### Práctica 2
+
+Con lo visto hasta ahora en clases elabora un documento de _FigJam_ en _Figma_ y haz lo siguiente.
+
+Con las 5 capturas de diferentes pantallas que se te pidieron de un videojuego _2D_ identifica lo siguientes conceptos sobre el diseño de interfaces de usuarios:
+
+- Componentes.
+- Estilos.
+- Principios de Diseño _UI_.
+
+En el documento de _FigJam_ señala o resalta la parte de la interfaz donde identifiques los conceptos ya mencionados y adicionalmente agrega un párrafo donde me des tu argumento al respecto.
+
+Se evaluará uso de las herramientas de diseño, estilo de diseño y comunicación del mensaje.
+
+Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcial 2**.
+
+El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 2"** por ejemplo "Jonathan Miranda - Práctica 2".
+
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
+
+---
+
+### Práctica 3
+
+Con lo visto hasta ahora en clases elabora un documento de _FigJam_ en _Figma_ y haz lo siguiente.
+
+Con las 5 capturas de diferentes pantallas que se te pidieron de un videojuego _3D_ identifica lo siguientes conceptos sobre el diseño de interfaces de usuarios:
+
+- Componentes.
+- Estilos.
+- Principios de Diseño _UI_.
+
+En el documento de _FigJam_ señala o resalta la parte de la interfaz donde identifiques los conceptos ya mencionados y adicionalmente agrega un párrafo donde me des tu argumento al respecto.
+
+Se evaluará uso de las herramientas de diseño, estilo de diseño y comunicación del mensaje.
+
+Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcial 2**.
+
+El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 3"** por ejemplo "Jonathan Miranda - Práctica 3".
+
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
+
+---
+
 ## Parcial 3
 
 ---

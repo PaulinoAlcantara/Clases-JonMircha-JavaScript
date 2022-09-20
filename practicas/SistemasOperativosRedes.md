@@ -206,6 +206,60 @@ En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
 
 ---
 
+### Práctica 2
+
+Para reforzar lo aprendido sobre los cambios, el historial y las etiquetas en _Git_ y _GitHub_, haz lo siguiente:
+
+1. Abre la carpeta de la repositorio de tus **Entregas**.
+1. Crea una archivo _**commits.txt**_ que contenga toda la información del historial de cambios de tu repositorio.
+1. Agrega el cambio al _stage_ de tu repositorio.
+1. Crea un _commit_ que tenga el mensaje "_Subiendo commits.txt_".
+1. Sube el cambio del repositorio local al remoto.
+1. Agrega un párrafo al _**README.md**_, que diga creando la versión _1.0.0_ de este repositorio.
+1. Agrega el cambio al _stage_ de tu repositorio.
+1. Crea la etiqueta _**v1.0.0**_.
+1. Crea un _commit_ que tenga el mensaje "_v1.0.0_".
+1. Sube la etiqueta del repositorio local al remoto.
+
+En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
+
+---
+
+### Práctica 3
+
+Para reforzar lo aprendido sobre _Git_ y _GitHub_, haz lo siguiente:
+
+1. Abre la carpeta de la repositorio de tus **Entregas**.
+1. Abre el archivo _**README.md**_ y agrega una nueva sección de contenido donde con tus propias palabras expliques:
+   - ¿Cómo se inicializa un repositorio en _Git_?
+   - ¿Cómo creas un repositorio en _GitHub_?
+   - ¿Cómo vinculas un repositorio local de _Git_ con uno remoto en _GitHub_?
+   - ¿Cuál es el flujo básico de trabajo en _Git_ y _GitHub_?
+1. Tus explicaciones deberán incluir fragmentos de código en formato _markdown_ con los comandos que se ejecutan en cada pregunta que estas respondiendo.
+1. Agrega el cambio al _stage_ de tu repositorio.
+1. Crea un _commit_ que tenga el mensaje "Repaso de conceptos básicos de Git y GitHub".
+1. Sube el cambio del repositorio local al remoto.
+
+En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
+
+---
+
+### Práctica 4
+
+---
+
+### Práctica 5
+
+---
+
+### Práctica 6
+
+---
+
+### Práctica 7
+
+---
+
 ## Parcial 3
 
 ---
