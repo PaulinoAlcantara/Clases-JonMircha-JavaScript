@@ -201,6 +201,37 @@ En la tarea sólo agrega el enlace de tu documento de _Figma_.
 
 ---
 
+### Práctica 4
+
+Con lo visto en clase hasta ahora, elaborá un documento de diseño en _Figma_ y haz lo siguiente:
+
+Recrea la interfaz de algún videojuego (de preferencia en _2D_) que conozcas o juegues, donde puedas aplicar los conceptos vistos hasta el momento:
+
+**No diseñes a ciegas**, usa _Layout Grid_, _Auto Layout_, aplica los 12 principios de _UI_ vistos en clase.
+
+Deberás crear al menos:
+
+- 5 componentes.
+- 3 estilos de colores.
+- 2 estilos de texto.
+
+Se evaluará la nomenclatura que le des a tus componentes y estilos.
+
+Deberás tener 2 _frames_ en tu documento:
+
+1. Uno donde tengas tu librería de componentes y estilos.
+1. Otro donde diseñes la interfaz que estás recreando.
+
+Anexa la captura de pantalla de la interfaz que recrearás para tenerla como referencia.
+
+Tu documento lo deberás guardar en el proyecto de _Figma_ que se llama **Parcial 1**.
+
+El nombre de tu documento de _Figma_ deberá ser **"Tu nombre - Práctica 4"** por ejemplo "Jonathan Miranda - Práctica 4".
+
+En la tarea sólo agrega el enlace de tu documento de _Figma_.
+
+---
+
 ## Parcial 3
 
 ---
