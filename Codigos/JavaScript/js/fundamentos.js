@@ -1121,6 +1121,11 @@ const obtenerGanador = (participantes) => {
 
   if (participantes.length === 0) return console.error("El arreglo esta vacío");
 
+  if (participantes.length === 1)
+    return console.error(
+      "Para obtener un ganador, al menos debe haber 2 participantes"
+    );
+
   for (let el of participantes) {
     if (typeof el !== "string")
       return console.error(`El valor "${el}" ingresado, NO es un string`);

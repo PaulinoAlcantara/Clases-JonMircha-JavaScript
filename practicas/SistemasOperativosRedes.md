@@ -244,6 +244,37 @@ En la tarea sólo agrega el enlace de tu repositorio de entregas en _GitHub_.
 
 ### Práctica 4
 
+Para reforzar lo aprendido sobre remotos y colaboración mediante _Pull Request_ en _Git_ y _GitHub_, haz lo siguiente:
+
+1. Crea un _**Fork**_ en tu cuenta de _GitHub_ de [este repositorio](https://github.com/jonmircha/amerike-so-2022-2).
+1. Clona en la computadora donde vayas a trabajar una copia del repositorio que acabas de _**forkear**_ en tu cuenta de _GitHub_.
+1. Cambia los _**remotes**_ como vimos en clase, para que puedas hacer un _**Pull Request**_.
+1. Una vez que tengas descargada la copia del repositorio y hayas modificado los _**remotes**_, crea una nueva rama que lleve tu nombre para que en ella hagas tu colaboración.
+1. Abre el archivo _**estudiantes.md**_ y en la sección de _"Estudiantes"_, agrega tu información personal con el siguiente formato _mardown_:
+
+   ```md
+   ### Tu nombre completo
+
+   Un breve párrafo de presentación sobre quien eres
+
+   - [tucorreo@amerike.edu.mx](tucorreo@amerike.edu.mx)
+   - [Tu perfil de _GitHub_](https://github.com/tu-usuario)
+
+   ![Tu nombre](./img/tu-foto.jpg)
+
+   ---
+   ```
+
+1. Tu fotografía súbela en la carpeta _**img**_ que encontrarás en el repositorio.
+1. No borres ninguna información que haya subido previamente otro estudiante, simplemente agrega tu información al documento.
+1. Solicita un _**Pull Request**_ y espera a que sea aceptado tu cambio.
+1. Si tu cambio es rechazado, pon atención a los comentarios que te haga el dueño del repositorio, haz los cambios y vuelve a solicitar un _**Pull Request**_ hasta que tus cambios sean aceptados.
+1. Una vez que tus cambios sean aceptados, actualiza tu repositorio _**forkeado**_.
+
+Recuerda que si tienes dudas del proceso puedes repasar los pasos a seguir en el siguiente [artículo](https://jonmircha.com/git#colaboraci%C3%B3n-en-github).
+
+En la tarea sólo agrega el enlace de tu repositorio _**forkeado**_ en _GitHub_.
+
 ---
 
 ### Práctica 5
