@@ -271,7 +271,7 @@ Para reforzar lo aprendido sobre remotos y colaboración mediante _Pull Request_
 1. Si tu cambio es rechazado, pon atención a los comentarios que te haga el dueño del repositorio, haz los cambios y vuelve a solicitar un _**Pull Request**_ hasta que tus cambios sean aceptados.
 1. Una vez que tus cambios sean aceptados, actualiza tu repositorio _**forkeado**_.
 
-Recuerda que si tienes dudas del proceso puedes repasar los pasos a seguir en el siguiente [artículo](https://jonmircha.com/git#colaboraci%C3%B3n-en-github).
+Recuerda que si tienes dudas del proceso puedes repasar los pasos a seguir en el siguiente [artículo](https://jonmircha.com/git#colaboraci%C3%B3n-en-github) o ver mi curso de _Git_ y _GitHub_ en _YouTube_ desde esta [sección](https://www.youtube.com/watch?v=suzMNqDQiyU&t=14666s).
 
 En la tarea sólo agrega el enlace de tu repositorio _**forkeado**_ en _GitHub_.
 
